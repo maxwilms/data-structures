@@ -1,0 +1,16 @@
+{
+    "name": "maxwilms/data-structures",
+    "description": "Collection of data structures for PHP",
+    "type": "library",
+    "require-dev": {
+        "phpspec/phpspec": "^2.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maximilian Wilms",
+            "email": "max@bildschirmflackern.de"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,5 @@
+suites:
+    ds_suite:
+        namespace: maxwilms\DataStructures
+        psr4_prefix: maxwilms\DataStructures
+
