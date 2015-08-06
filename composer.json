@@ -12,5 +12,8 @@
             "email": "max@bildschirmflackern.de"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {"maxwilms\\DataStructures\\": "src/"}
+    }
 }
